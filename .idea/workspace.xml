@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fe76e5e-a61d-4489-a193-68d49a87b408" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula2301.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnimalQueAnda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnimalQueNada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnimalQueVoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ornitorrinco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Papagaio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Peixe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimuladorAnimal.java" afterDir="false" />
-    </list>
+    <list default="true" id="0fe76e5e-a61d-4489-a193-68d49a87b408" name="Changes" comment="Primeiro Comit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +51,29 @@
       <option name="presentableId" value="Default" />
       <updated>1674513354833</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primeiro Comit">
+      <created>1674517425691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674517425691</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro Comit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro Comit" />
   </component>
 </project>
