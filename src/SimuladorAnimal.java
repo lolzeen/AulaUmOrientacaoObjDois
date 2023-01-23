@@ -6,7 +6,7 @@ import java.util.Objects;
 public class SimuladorAnimal {
     public static void main(String[] args) {
 
-        Animal cao = new Cachorro();
+//        Animal cao = new Cachorro();
         Animal nemo = new Peixe();
         Animal perry = new Ornitorrinco();
         Animal garfield = new Gato();
