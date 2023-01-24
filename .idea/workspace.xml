@@ -11,7 +11,20 @@
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/AnimalQueVoaNadaEAnda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Caixa.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Numero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/AnimalQueAnda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/AnimalQueNada.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/AnimalQueVoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/AnimalQueVoaNadaEAnda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Cachorro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Gato.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Numero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ornitorrinco.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Papagaio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Peixe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SimuladorAnimal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aula2301.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula2301.iml" afterDir="false" />
