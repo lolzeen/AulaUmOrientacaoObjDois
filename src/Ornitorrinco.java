@@ -1,4 +1,4 @@
-public class Ornitorrinco extends Animal {
+public class Ornitorrinco extends Animal implements AnimalQueNada, AnimalQueVoa, AnimalQueAnda {
     private boolean temAsas;
     public boolean isTemAsas() {
         return temAsas;
@@ -12,5 +12,10 @@ public class Ornitorrinco extends Animal {
     }
     public void nadar() {
         System.out.println("Nadando");
+    }
+
+    @Override
+    public int obterNumeroDePernas() {
+        return 4;
     }
 }

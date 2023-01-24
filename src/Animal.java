@@ -1,4 +1,4 @@
-public abstract class Animal {
+public abstract class Animal implements Comparable<Animal> {
 
     public int getNumeroDeOlhos() {
         return numeroDeOlhos;
@@ -64,5 +64,16 @@ public abstract class Animal {
                 ", tipoAlimentacao='" + tipoAlimentacao + '\'' +
                 ", especie='" + especie + '\'' +
                 '}';
+    }
+
+    @Override
+    public int compareTo(Animal o) {
+        if (this.peso > o.peso) {
+            return 1;
+        } else if (this.peso == o.peso) {
+            return 0;
+        } else {
+            return -1;
+        }
     }
 }
